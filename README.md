@@ -1,5 +1,8 @@
 # Link-respource
 
+## Design
+* [Learn Mobile Design](https://learnmobile.design/)
+
 ## Retrospective
 * [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 
