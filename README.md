@@ -3,6 +3,12 @@
 ## Retrospective
 * [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 
+## Launch a software
+* [How To Launch Software](http://www.aaronsw.com/weblog/howtolaunch)
+
+## RESTful API
+* [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#requirements)
+
 ## Lessons
 * [Seven tough lessons from ten years in bootstrapped business](https://likewise.am/2018/12/01/seven-tough-lessons-from-ten-years-in-bootstrapped-business/)
 
