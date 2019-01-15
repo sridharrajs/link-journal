@@ -9,8 +9,16 @@
 ## Launch a software
 * [How To Launch Software](http://www.aaronsw.com/weblog/howtolaunch)
 
+## Career
+* [An Unconventional Guide for Getting a Software Engineering Job - Julia H Grace](http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job)
+
+## Hiring
+
+* [How I Hire Programmers](http://www.aaronsw.com/weblog/hiring) by aaron swatzd
+
 ## RESTful API
 * [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#requirements)
+* [API design - Microsoft](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 ## Lessons
 * [Seven tough lessons from ten years in bootstrapped business](https://likewise.am/2018/12/01/seven-tough-lessons-from-ten-years-in-bootstrapped-business/)
