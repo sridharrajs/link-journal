@@ -20,6 +20,12 @@
 
 * [How To Launch Software](http://www.aaronsw.com/weblog/howtolaunch)
 
+## Stackoverflow
+
+* [Writing the perfect question](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) by John Skeet
+* [Answering technical question helpfully](https://codeblog.jonskeet.uk/2009/02/17/answering-technical-questions-helpfully/) by John Skeet
+
+
 ## Career
 
 * [An Unconventional Guide for Getting a Software Engineering Job - Julia H Grace](http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job)
@@ -41,6 +47,10 @@
 
 ## Lessons
 * [Seven tough lessons from ten years in bootstrapped business](https://likewise.am/2018/12/01/seven-tough-lessons-from-ten-years-in-bootstrapped-business/)
+* [Ten Lessons from GitHub’s First Year](http://tom.preston-werner.com/2011/03/29/ten-lessons-from-githubs-first-year.html) by Tom Preston-Werner
+* [21 management things I learned at Imgur](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
+* [Seven lessons I learned from the failure of my first startup, Dinnr](https://medium.com/indian-thoughts/seven-lessons-i-learned-from-the-failure-of-my-first-startup-dinnr-c166d1cfb8b8)
+
 
 ## Start ups
 * [Why Founders Should Start With a Website, Not a Mobile App](https://www.atrium.co/blog/founders-should-build-website-not-mobile-app/)
