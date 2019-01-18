@@ -15,6 +15,8 @@
 ## Retrospective
 
 * [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+* [Advice for 20](https://patrickcollison.com/advice)
+
 
 ## Launch a software
 
@@ -40,6 +42,8 @@
 ## Hiring
 
 * [How I Hire Programmers](http://www.aaronsw.com/weblog/hiring) by aaron swatzd
+* [How to Hire a Programmer](https://blog.codinghorror.com/how-to-hire-a-programmer/) by jeff atwood
+
 
 ## RESTful API
 * [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#requirements)
