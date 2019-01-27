@@ -64,6 +64,9 @@
 * [The Day You Became a Better Writer (2nd Look)](https://blog.dilbert.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/)
 * [Blog Interesting - 32 Ways to Keep Your Blog from Sucking](https://www.hanselman.com/blog/BlogInteresting32WaysToKeepYourBlogFromSucking.aspx)
 
+## Essays
+* [How To Be Successful](http://blog.samaltman.com/how-to-be-successful) by Sam Altman
+
 ## Interviews
 
 * [Q&A With Nine Great Programmers](http://www.dodgycoder.net/2012/09/q-with-nine-great-programmers.html)
