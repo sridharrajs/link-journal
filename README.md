@@ -58,6 +58,10 @@
 
 ## Start ups
 * [Why Founders Should Start With a Website, Not a Mobile App](https://www.atrium.co/blog/founders-should-build-website-not-mobile-app/)
+* [What’s The Atomic Unit Of Your Product/Service?](https://avc.com/2012/08/feature-friday-whats-the-atomic-unit-of-your-productservice/)
+
+> When you think about an MVP, it's really important to identify the atomic unit and make sure you focus the product crisply and cleanly on that object. If you think you have three or four atomic units, you are going to end up with a clunky and bloated experience and that is what you want to avoid at all costs with your MVP (particularly if you are mobile first).
+
 
 ## Blogs
 * [You Should Write Blogs](https://sites.google.com/site/steveyegge2/you-should-write-blogs)
