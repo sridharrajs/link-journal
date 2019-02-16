@@ -17,6 +17,10 @@
 * [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 * [Advice for 20](https://patrickcollison.com/advice)
 
+## Tamil
+
+* [ஒருவர் ஏன் புத்தகக் கண்காட்சிக்கு வரவேண்டும்](https://jeyamohan.in/117289#.XGeW4aThWNJ)
+
 
 ## Launch a software
 
@@ -58,6 +62,11 @@
 
 ## Start ups
 * [Why Founders Should Start With a Website, Not a Mobile App](https://www.atrium.co/blog/founders-should-build-website-not-mobile-app/)
+> 1. Building the MVP - instant deployment 
+2. Getting users - Ease of distribution and expansion 
+3. Scaling - Works on all devices 
+4. Desktop users pay a higher price
+
 * [What’s The Atomic Unit Of Your Product/Service?](https://avc.com/2012/08/feature-friday-whats-the-atomic-unit-of-your-productservice/)
 
 > When you think about an MVP, it's really important to identify the atomic unit and make sure you focus the product crisply and cleanly on that object. If you think you have three or four atomic units, you are going to end up with a clunky and bloated experience and that is what you want to avoid at all costs with your MVP (particularly if you are mobile first).
