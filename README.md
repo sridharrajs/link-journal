@@ -36,13 +36,6 @@
 
 * [An Unconventional Guide for Getting a Software Engineering Job - Julia H Grace](http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job)
 
-## Security
-
-* Google Cloud Platform - [12 best practices for user account, authorization and password management](https://cloud.google.com/blog/products/gcp/12-best-practices-for-user-account)
-
->  Do not store plaintext passwords under any circumstances. **Your service should instead store a cryptographically strong hash of the password that cannot be reversed — created with, for example, PBKDF2, Argon2, Scrypt, or Bcrypt.** The hash should be salted with a value unique to that specific login credential. **Do not use deprecated hashing technologies such as MD5, SHA1 and under no circumstances should you use reversible encryption or try to invent your own hashing algorithm.**
-
-
 ## Hiring
 
 * [How I Hire Programmers](http://www.aaronsw.com/weblog/hiring) by aaron swatzd
