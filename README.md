@@ -11,6 +11,7 @@
 
 * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 * [Documentation Driven Development](https://blog.izs.me/2017/06/documentation-driven-development)
+* [Incremental Development](https://ronjeffries.com/articles/019-01ff/incremental/)
 
 ## Retrospective
 
