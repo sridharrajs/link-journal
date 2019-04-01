@@ -35,3 +35,5 @@
 > **Mistake number 4.** Running out of upgrade revenues when your software is done.   
 > **Mistake number 5.** The “We’ll Ship It When It’s Ready” syndrome.   
 > **Mistake number 6.** Too-frequent upgrades (a.k.a. the Corel Syndrome).   
+
+* [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
