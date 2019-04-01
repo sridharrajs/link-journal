@@ -4,12 +4,6 @@
 * [வருடமெல்லாம் வசந்தம்](https://nchokkan.wordpress.com/2016/08/29/365prjct/)
 * [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/)
 
-## Development models
-
-* [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-* [Documentation Driven Development](https://blog.izs.me/2017/06/documentation-driven-development)
-* [Incremental Development](https://ronjeffries.com/articles/019-01ff/incremental/)
-
 ## Retrospective
 
 * [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
@@ -19,10 +13,6 @@
 
 * [ஒருவர் ஏன் புத்தகக் கண்காட்சிக்கு வரவேண்டும்](https://jeyamohan.in/117289#.XGeW4aThWNJ)
 
-
-## Launch a software
-
-* [How To Launch Software](http://www.aaronsw.com/weblog/howtolaunch)
 
 ## Stackoverflow
 
