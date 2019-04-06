@@ -7,7 +7,7 @@
 
 ## Launch a software
 
-* [How To Launch Software](http://www.aaronsw.com/weblog/howtolaunch)
+* [How To Launch Software](http://www.aaronsw.com/weblog/howtolaunch) by Aaron Swatz
 
 
 ## General

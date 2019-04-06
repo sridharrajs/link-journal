@@ -20,10 +20,6 @@
 * [Answering technical question helpfully](https://codeblog.jonskeet.uk/2009/02/17/answering-technical-questions-helpfully/) by John Skeet
 
 
-## Career
-
-* [An Unconventional Guide for Getting a Software Engineering Job - Julia H Grace](http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job)
-
 ## Hiring
 
 * [How I Hire Programmers](http://www.aaronsw.com/weblog/hiring) by Aaron Swatz
