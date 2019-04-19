@@ -37,6 +37,7 @@
 * [Blog Interesting - 32 Ways to Keep Your Blog from Sucking](https://www.hanselman.com/blog/BlogInteresting32WaysToKeepYourBlogFromSucking.aspx)
 * [Networking Doesn’t Scale. Coding and Blogging Do.](https://ozar.me/2016/08/networking-doesnt-scale-coding-and-blogging-do/)
 * [Is Posting To Social Media Even Worth It With Such Low Reach?](https://www.reddit.com/r/Entrepreneur/comments/3hq6s7/is_posting_to_social_media_even_worth_it_with/cu9n3nf/)
+* [The Day You Became A Better Writer](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html) by Scott Adams
 
 ## Essays
 * [How To Be Successful](http://blog.samaltman.com/how-to-be-successful) by Sam Altman
