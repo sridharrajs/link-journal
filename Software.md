@@ -8,6 +8,7 @@
 ## Launch a software
 
 * [How To Launch Software](http://www.aaronsw.com/weblog/howtolaunch) by Aaron Swatz
+* [That’s version ∞. First launch version 0.1.](https://sivers.org/infinity) by Derek Sivers
 
 
 ## General

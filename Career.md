@@ -11,4 +11,10 @@
 > Communicate, write blog, decide whether you want to be a generalist or specialist and interview often.
 
 
+* [Change careers like Tarzan](https://sivers.org/tarzan) by Derek Sivers
 
+>  Remember how Tarzan swings through the jungle? He doesn’t let go of the previous vine until the next vine is supporting his weight. So my advice is: Change careers like Tarzan. Don’t let go of the old one until the new one is supporting you. And make sure you don’t lose momentum. 
+
+* [How to change or build your career](https://sivers.org/career) by Derek Sivers
+
+>  So instead of looking for passion and purpose, just keep mastering whatever work you’ve started, becoming more and more valuable in your field. Passion and purpose will follow a great career. 
