@@ -1,9 +1,10 @@
 # Design
 
-Guidlines
+[How the design should be for quick iterative products by Ron Jeffries](https://ronjeffries.com/articles/019-01ff/incremental/)
 
-* [A curated list of mobile design resources - Apple, Google](https://learnmobile.design/)
+> Whatever your product is, provide real working software every two weeks, every day if possible.
 
-* [How the design should be for quick iterative products by Ron Jeffries](https://ronjeffries.com/articles/019-01ff/incremental/)
+## Guidlines
 
+[A curated list of mobile design resources - Apple, Google](https://learnmobile.design/)
 

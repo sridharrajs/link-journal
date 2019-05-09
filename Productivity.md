@@ -14,7 +14,7 @@
 
 * [Fire And Motion](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/) by Joel spolsky
 
-> It took me another fifteen years to realize that the principle of Fire and Motion is how you get things done in life. You have to move forward a little bit, every day. It doesn’t matter if your code is lame and buggy and nobody wants it. If you are moving forward, writing code and fixing bugs constantly, time is on your side. 
+> It took me another fifteen years to realize that the principle of Fire and Motion is how you get things done in life. **You have to move forward a little bit, every day. It doesn’t matter if your code is lame and buggy and nobody wants it. If you are moving forward, writing code and fixing bugs constantly, time is on your side. **
 
 * [Todon't](https://blog.codinghorror.com/todont/) by Jeff Atwood
 
@@ -23,3 +23,41 @@
 * [Three Things](https://blog.codinghorror.com/three-things/) by Jeff Atwood
 
 * [Scott Hanselman's Complete List of Productivity Tips](https://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx) by Scott Hanselman
+
+> * Look for Danger Signs  
+> * Understand Effectiveness Versus Efficiency  
+> * Define "Work"  
+> * Do It, Drop It, Delegate It and Defer It  
+> * Drop the Ball  
+> * Follow This One Email Rule, Don't Check Email in the Morning (or at Night)  
+> * Find Your Robert Scoble  
+> * Remain in Your Flow  
+> * Conserve Your Keystrokes  
+> * Triage the Inbox of Your Life  
+> * Get Rid of Psychic Weight  
+> * Reserve Fridays for Reflection  
+> * Try the Pomodoro Technique  
+> * Realize that Being Busy is a form of Laziness  
+
+* [HOWTO: Be more productive](http://www.aaronsw.com/weblog/productivity) by Aaron Swartz
+
+> * Choose good problems  
+> * Have a bunch of them  
+> * Make a list  
+> * Integrate the list with your life  
+> * Make your time higher quality  
+> * Ease physical constraints - Carry pen and paper  
+> * Avoid being interrupted  
+> * Ease mental constraints   
+>    * Eat, sleep, exercise  
+>    * Talk to cheerful people  
+>    * Share the load  
+>    * Procrastination and the mental force field  
+> * Hard problems 
+>    * Break it down  
+>    * Simplify it,  
+>    * Think about it  
+>    * Assigned problems  
+>    * Create a false assignment  
+>    * Don’t assign problems to yourself  
+>    * Make things fun  
