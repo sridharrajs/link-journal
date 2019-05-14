@@ -5,11 +5,6 @@
 * [வருடமெல்லாம் வசந்தம்](https://nchokkan.wordpress.com/2016/08/29/365prjct/)
 * [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/)
 
-## Retrospective
-
-* [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
-* [Advice for 20](https://patrickcollison.com/advice)
-
 ## Tamil
 
 * [ஒருவர் ஏன் புத்தகக் கண்காட்சிக்கு வரவேண்டும்](https://jeyamohan.in/117289#.XGeW4aThWNJ)
