@@ -15,9 +15,6 @@
 
 > When you think about an MVP, it's really important to identify the atomic unit and make sure you focus the product crisply and cleanly on that object. If you think you have three or four atomic units, you are going to end up with a clunky and bloated experience and that is what you want to avoid at all costs with your MVP (particularly if you are mobile first).
 
-* [The Rise of ``Worse is Better''](https://www.jwz.org/doc/worse-is-better.html) By Richard Gabriel
-
->  The lesson to be learned from this is that it is often undesirable to go for the right thing first. It is better to get half of the right thing available so that it spreads like a virus. Once people are hooked on it, take the time to improve it to 90% of the right thing. 
 
 ## Experience
 

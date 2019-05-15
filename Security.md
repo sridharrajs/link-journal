@@ -11,5 +11,4 @@
 ## Password
 
 * [How to safely store a password](https://codahale.com/how-to-safely-store-a-password/)
-* [Everything you ever wanted to know about building a secure password reset feature]()
-https://www.troyhunt.com/everything-you-ever-wanted-to-know/
+* [Everything you ever wanted to know about building a secure password reset feature](https://www.troyhunt.com/everything-you-ever-wanted-to-know/)
