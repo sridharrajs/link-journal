@@ -15,6 +15,10 @@
 
 > When you think about an MVP, it's really important to identify the atomic unit and make sure you focus the product crisply and cleanly on that object. If you think you have three or four atomic units, you are going to end up with a clunky and bloated experience and that is what you want to avoid at all costs with your MVP (particularly if you are mobile first).
 
+## Idea
+
+* [Validate your startup idea by asking 3 simple questions](https://paraschopra.com/blog/entrepreneurship/validate-startup-idea.htm) by Paras Chopra
+* [How to Get Startup Ideas](http://www.paulgraham.com/startupideas.html) by Paul Graham
 
 ## Experience
 

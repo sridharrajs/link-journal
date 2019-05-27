@@ -1,3 +1,4 @@
+# Software
 
 ## Development models
 
@@ -9,6 +10,12 @@
 
 * [How To Launch Software](http://www.aaronsw.com/weblog/howtolaunch) by Aaron Swatz
 * [That’s version ∞. First launch version 0.1.](https://sivers.org/infinity) by Derek Sivers
+* [1.0 Is the Loneliest Number](https://ma.tt/2010/11/one-point-oh/) by Matt Mullenweg
+
+> **if you’re not embarrassed when you ship your first version you waited too long.**
+> 
+> **Usage is like oxygen for ideas.** You can never fully anticipate how an audience is going to react to something you’ve created until it’s out there. That means every moment you’re working on something without it being in the public it’s actually dying, deprived of the oxygen of the real world. It’s even worse because development doesn’t happen in a vacuum — if you have a halfway decent idea, you can be sure that there are two or three teams somewhere in the world that independently came up with it and are working on the same thing, or something you haven’t even imagined that disrupts the market you’re working in.   
+> **By shipping early and often you have the unique competitive advantage of hearing from real people what they think of your work**, which in best case helps you anticipate market direction, and in worst case gives you a few people rooting for you that you can email when your team pivots to a new idea. Nothing can recreate the crucible of real usage.
 
 
 ## General
