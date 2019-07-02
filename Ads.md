@@ -15,3 +15,8 @@
 ## Apple Making a difference. One app at a time
 
 [![Apple Making a difference. One app at a time](http://img.youtube.com/vi/R26dxjlwDqs/0.jpg)](http://www.youtube.com/watch?v=R26dxjlwDqs)
+
+
+## Paisa bazar - marriage speech
+
+[![Paisa bazar - marriage speech](http://img.youtube.com/vi/X7Acl0abNn0/0.jpg)](https://www.youtube.com/watch?v=X7Acl0abNn0)
