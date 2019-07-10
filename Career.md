@@ -36,3 +36,18 @@
 > Modesty is not a career-enhancing character trait
 > All business decisions are ultimately made by one or a handful of multi-cellular organisms closely related to chimpanzees, not by rules or by algorithms
 > At the end of the day, your life happiness will not be dominated by your career.
+
+
+* [Don’t get fooled into thinking you have a life long career](https://www.linkedin.com/pulse/dont-get-fooled-thinking-you-have-life-long-career-ravi-venkatesan/) by Ravi Venkatesan
+
+> Don’t get fooled into thinking you have a life long career. At any moment, you need to be prepared to be independent and stand on your own two feet. If you prepare yourself for that, I think you are going to have a much better, sort of ride along the way. So think about yourself as self-employed.
+
+* [இனி ஐ.டி. அவ்வளவுதானா?](http://www.nisaptham.com/2018/07/blog-post_11.html) by vaa.manikandan
+
+> சி, சி++ மட்டும்தான் மென்பொருள் என்று நினைக்கிறவர்கள்தான் 'இனி ஐ.டி அவ்வளவுதான்' என்று நம்புகிறார்கள். உண்மையில் இனிமேல்தான் ஐ.டியின் அசுரத்தனமான வளர்ச்சி இருக்கப் போகிறது.
+>
+> மென்பொருள் துறை என்றில்லை பொதுவாகவே இன்றைக்கு பணியில் இருப்பவர்கள் பலருக்கும் 'அடுத்தது என்ன?' என்றோ அல்லது 'எதில் அப்டேட் செய்து கொள்வது' என்றோ குழப்பம் இருக்கும்.
+>
+> நேற்று ஒரு கருத்தரங்கம் நடைபெற்றது. மேற்சொன்ன விஷயம்தான் ஒரு அமர்வில் விவாதப் பொருள். படித்துவிட்டு உடனடியாக வேலை மாறுகிறேன் என்றெல்லாம் மண்டை காய வேண்டியதில்லை. அடுத்த மூன்று முதல் ஐந்து வருடங்களில் கவனிக்கப்படும் தொழில் நுட்பம் ஒன்றைத் தேர்ந்தெடுத்து அதை குறித்தான ஆராய்ச்சியைத் தொடங்கி அதில் கற்றுக் கொள்ளத் தொடங்குங்கள் என்று பேசினார்கள். புதிய நுட்பத்தைக் கற்றுக் கொள்ளும் கால கட்டத்தில் தினசரி அரை மணி நேரம் ஒதுக்கி வார இறுதிகளில் சற்று அதிகப்படியான நேரத்தை ஒதுக்கினால் ஆறு மாதம் முதல் ஓராண்டு காலத்தில் தெளிவாகப் படித்துவிட முடியும். அதன் பிறகான ஓராண்டு காலம் நாம் கற்றுக் கொண்டவற்றில் நிபுணர் ஆவதற்கான வேலைகளைச் செய்யலாம். பிறகு அந்த நுட்பம் கோலோச்சும் காலம் வரைக்கும் நமக்கான தேவை இருந்து கொண்டேயிருக்கும்.
+>
+> அதிகபட்சம் முப்பதாண்டுகள் இந்தத் துறையில் இருப்போமா? இப்படி இரண்டு அல்லது மூன்று முறை பாம்பு சட்டையை உரிப்பது போல உரிக்க வேண்டியிருக்கும்."
