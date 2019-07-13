@@ -51,3 +51,5 @@
 * [On paying for software](https://seths.blog/2018/06/on-paying-for-software/) by Seth Godin
 
 * [Startups: You Should Value Software More](https://wadefoster.net/post/49775946303/startups-you-should-value-software-more) by Wade Foster
+
+* [Don't Be A Free User](https://blog.pinboard.in/2011/12/don_t_be_a_free_user/) by Maciej Cegłowski
