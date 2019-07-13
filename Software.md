@@ -45,3 +45,9 @@
 > **Mistake number 6.** Too-frequent upgrades (a.k.a. the Corel Syndrome).   
 
 * [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+
+## Pay for software
+
+* [On paying for software](https://seths.blog/2018/06/on-paying-for-software/) by Seth Godin
+
+* [Startups: You Should Value Software More](https://wadefoster.net/post/49775946303/startups-you-should-value-software-more) by Wade Foster
