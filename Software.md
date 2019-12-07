@@ -1,5 +1,18 @@
 # Software
 
+## Metrics
+
+* [How to metric](https://medium.com/@djsmith42/how-to-metric-edafaf959fc7?) by Dave smith
+
+> Lesson 1: Use Percentiles  
+> Lesson 2: Use Alarms  
+> Lesson 3: Adaptive Thresholds  
+> Lesson 4: Missing Metrics  
+> Lesson 5: Regular Automated Reviews  
+> Lesson 6: What to Measure  
+> Lesson 7: Outsource Your Metric Infrastructure  
+
+
 ## Development models
 
 * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
