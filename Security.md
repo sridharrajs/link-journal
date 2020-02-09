@@ -12,3 +12,10 @@
 
 * [How to safely store a password](https://codahale.com/how-to-safely-store-a-password/)
 * [Everything you ever wanted to know about building a secure password reset feature](https://www.troyhunt.com/everything-you-ever-wanted-to-know/)
+
+## Design 
+
+[One in a million is next Tuesday](https://docs.microsoft.com/en-us/archive/blogs/larryosterman/one-in-a-million-is-next-tuesday) by Larry Osterman
+
+> It has absolutely stood the test of time – no matter how small the chance of something happening, with modern computers and modern operating systems, essentially every possible race condition or deadlock will be found within a reasonable period of time.
+
